@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648674525861",
+    "project_id": "espresso-91fce",
+    "storage_bucket": "espresso-91fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648674525861:android:33dc317396ed5f0a4e834c",
+        "android_client_info": {
+          "package_name": "com.example.espressouitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648674525861-s79c704i4stk19kv5nmruirofe7tg0t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcIuTaMnQe5paiUkbnJqY6PqYDVrrzquE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648674525861-s79c704i4stk19kv5nmruirofe7tg0t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
